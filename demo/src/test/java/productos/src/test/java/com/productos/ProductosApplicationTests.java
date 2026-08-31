@@ -1,10 +1,10 @@
-package RED.demo;
+package com.productos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ProductosApplicationTests {
 
 	@Test
 	void contextLoads() {
